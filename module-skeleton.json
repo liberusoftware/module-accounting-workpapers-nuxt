@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-workpapers-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-workpapers",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-workpapers-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/workpapers.md",
+  "presentationPlan": "projects/accounting/nuxt/workpapers.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
